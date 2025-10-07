@@ -1,4 +1,4 @@
-# José Martin Escobar Robles  
+# Jose Martin Escobar Robles  
 **Estudiante de Ing. en Ciencias de la Computación**  
 
 📍 San Martín Texmelucan, Puebla  
