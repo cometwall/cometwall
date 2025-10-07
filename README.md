@@ -1,16 +1,43 @@
-## Hi there 👋
+# José Martin Escobar Robles  
+**Estudiante de Ing. en Ciencias de la Computación**  
 
-<!--
-**cometwall/cometwall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 San Martín Texmelucan, Puebla  
+✉️ jose.escobarr@alumno.buap.mx  
+🔗 [Perfil LinkedIn](https://www.linkedin.com/in/tu-perfil)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Educación  
+**BUAP – Lic. en Ing. en Ciencias de la Computación**  
+2021 – Actualidad
+
+---
+
+## 🛠 Habilidades  
+- **Lenguajes**: C · C++ · Python · PHP · Bash · Java  
+- **Web**: HTML5 · CSS3 · JavaScript · TypeScript · Angular  
+- **Bases de datos**: MySQL  
+- **Control de versiones**: Git · GitHub  
+- **S.O.**: Linux (Ubuntu, Debian) · Windows  
+- **IDE / Tools**: VS Code · MPLAB X · NetBeans
+
+---
+
+## 🌐 Idiomas  
+- Español (nativo)  
+- Inglés (A2)  
+
+---
+
+## 💼 Experiencia  
+**Desarrollo web – Programa de Ciberseguridad BUAP**  
+Servicio Social | Ene 2025 – Jul 2025  
+- Creé y mantuve el sitio oficial en HTML5, CSS3 y JS.  
+- Implementé diseño responsive para móviles y desktop.
+
+---
+
+## 📌 Proyectos Destacados  
+- [ciberseguridad-BUAP](https://github.com/MarcoDelcas/ciberseguridad-BUAP) – Código del sitio de la carrera de Ciberseguridad.
+
+---
