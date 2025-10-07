@@ -3,7 +3,7 @@
 
 📍 San Martín Texmelucan, Puebla  
 ✉️ jose.escobarr@alumno.buap.mx  
-🔗 [Perfil LinkedIn](https://www.linkedin.com/in/tu-perfil)  
+<!--🔗 [Perfil LinkedIn](https://www.linkedin.com/in/tu-perfil)-->  
 
 ---
 
