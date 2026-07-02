@@ -36,8 +36,3 @@ Servicio Social | Ene 2025 – Jul 2025
 - Implementé diseño responsive para móviles y desktop.
 
 ---
-
-## 📌 Proyectos Destacados  
-- [ciberseguridad-BUAP](https://github.com/MarcoDelcas/ciberseguridad-BUAP) – Código del sitio de la carrera de Ciberseguridad.
-
----
