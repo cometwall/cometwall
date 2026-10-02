@@ -35,6 +35,17 @@ I am interested in software development and building applications using differen
 
 ## Projects
 
+### Clonal Selection Algorithm – Python
+
+Implementation of a clonal selection algorithm for the optimization of binary patterns on a row-by-row basis.
+
+- Implemented **clonal selection**, proportional cloning, adaptive mutation, and fitness-based selection.
+- Developed configurable parameters for population size, number of generations, cloning factor, mutation rate, and random seed.
+- Implemented performance metrics including **average fitness, standard deviation, and best fitness per generation**.
+- Used **NumPy** for binary matrix processing and reproducible experiments.
+
+- **Repository:** [algoritmo-seleccion-clonal](https://github.com/cometwall/algoritmo-seleccion-clonal)
+
 ### School Mobile Application – Angular & Django
 
 Application developed using Angular for the frontend and Django for the backend.
