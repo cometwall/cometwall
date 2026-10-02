@@ -1,79 +1,87 @@
 # José Martín Escobar Robles
-**Ing. en Ciencias de la Computación**
+**Computer Science Engineer**
 
-✉️ martinflowjose@gmail.com  
-<!-- 🔗 [Perfil LinkedIn](https://www.linkedin.com/in/tu-perfil) -->
-
----
-
-## Quién soy
-
-Soy Ingeniero en Ciencias de la Computación con experiencia en **desarrollo web, desarrollo móvil y manejo de bases de datos**.
-
-Me interesa el desarrollo de software y la creación de aplicaciones mediante diferentes tecnologías, tanto para frontend como para backend. Actualmente continúo desarrollando proyectos para fortalecer mis conocimientos y experiencia en el área.
+ martinflowjose@gmail.com  
+<!-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-profile) -->
 
 ---
 
-## Educación
+## Professional Summary
 
-**BUAP – Lic. en Ingeniería en Ciencias de la Computación**  
+I am a Computer Science Engineer with experience in **web development, mobile development, and database management**.
+
+I am interested in software development and building applications using different technologies for both frontend and backend development. I am currently working on projects to strengthen my technical skills and gain further experience in the software development field.
+
+---
+
+## Education
+
+**BUAP – B.S. in Computer Science Engineering**  
 2021 – 2026
 
 ---
 
-## 🛠 Habilidades
+## Technical Skills
 
-- **Lenguajes**: C++ · Python · C# · JavaScript · TypeScript · Dart
-- **Web**: HTML5 · CSS3 · JavaScript · TypeScript · Angular · Vue.js · Django
-- **Móvil**: Flutter · Dart
-- **Bases de datos**: MySQL · SQL Server
-- **Control de versiones**: Git · GitHub
-- **S.O.**: Linux (Ubuntu · Debian) · Windows
-- **IDE / Tools**: VS Code
+- **Programming Languages:** C++ · Python · C# · JavaScript · TypeScript · Dart
+- **Web Development:** HTML5 · CSS3 · JavaScript · TypeScript · Angular · Vue.js · Django
+- **Mobile Development:** Flutter · Dart
+- **Databases:** MySQL · SQL Server
+- **Version Control:** Git · GitHub
+- **Operating Systems:** Linux (Ubuntu · Debian) · Windows
+- **IDE / Tools:** Visual Studio Code
 
 ---
 
-## Proyectos
+## Projects
 
-**Aplicación desarrollada con Angular y Django**
+### School Mobile Application – Angular & Django
+
+Application developed using Angular for the frontend and Django for the backend.
 
 - **Frontend:** [App-Movil-Escolar-Web](https://github.com/cometwall/App-Movil-Escolar-Web)
 - **Backend:** [app_movil_escolar_api](https://github.com/cometwall/app_movil_escolar_api)
 
 ---
 
-**Aplicación desarrollada con Vue.js y C#**
+### Mango Fusion – Vue.js & C#
+
+Application developed using Vue.js for the frontend and C# for the backend.
 
 - **Frontend:** [VueMangoFusion](https://github.com/cometwall/VueMangoFusion)
 - **Backend:** [MangoFusion_API](https://github.com/cometwall/MangoFusion_API)
 
 ---
 
-**Aplicación actualmente en desarrollo con Flutter/Dart**
+### Point of Sale Application – Flutter & Dart
 
-Esta aplicación está orientada principalmente a su utilización en computadoras de escritorio.
+Application currently under development using Flutter and Dart.
 
-- **Repositorio:** [pos_mg](https://github.com/cometwall/pos_mg)
+The application is primarily intended for use on desktop computers.
 
----
-
-## Idiomas
-
-- Español (nativo)
-- Inglés (B1)
+- **Repository:** [pos_mg](https://github.com/cometwall/pos_mg)
 
 ---
 
-## Experiencia
+## Experience
 
-**Desarrollo web – Programa de Ciberseguridad BUAP**  
-Servicio Social | Ene 2025 – Jul 2025
+### Web Development – BUAP Cybersecurity Program
 
-- Creé y mantuve el sitio web oficial utilizando HTML5, CSS3 y JavaScript.
-- Implementé diseño responsive para dispositivos móviles y escritorio.
+**Social Service** | Jan 2025 – Jul 2025
 
-**Desarrollo móvil y soporte de Bases de Datos – BTOB CONSULTORES S.A. de C.V.**  
-Practicante Profesional | Ene 2026 – May 2026
+- Created and maintained the official website using HTML5, CSS3, and JavaScript.
+- Implemented responsive design for mobile and desktop devices.
 
-- Desarrollo de una aplicación móvil para la gestión y reparto de pedidos utilizando Flutter y Dart.
-- Soporte a incidencias relacionadas con bases de datos y datos de usuarios.
+### Mobile Development & Database Support – BTOB CONSULTORES S.A. de C.V.
+
+**Professional Internship** | Jan 2026 – May 2026
+
+- Developed a mobile application for order management and delivery using Flutter and Dart.
+- Provided support for database-related issues and user data management.
+
+---
+
+## Languages
+
+- **Spanish:** Native
+- **English:** B1
